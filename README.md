@@ -53,7 +53,7 @@ The dataset contains detailed coffee vending machine transaction records with th
   - Weekday
   - Hour
 - Prepared the dataset for machine learning model training
-# SQL
+### SQL
 -	Queried revenue, customer spending, sales trends, and product performance
 -	Used aggregate functions, grouping, filtering, subqueries, and ordering
 
