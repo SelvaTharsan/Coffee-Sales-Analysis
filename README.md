@@ -33,23 +33,23 @@ The dataset contains detailed coffee vending machine transaction records with th
 
 ## Data Cleaning & Preparation
 ### Excel
--	Imported CSV dataset
--	Checked missing values
--	Replaced null card values with CASH_CUSTOMER
--	Created helper columns:
-                        - Month
-                        - Weekday
-                        - Hour
--	Designed dashboard using Pivot Tables & Charts
+- Imported CSV dataset
+- Checked missing values
+- Replaced null card values with CASH_CUSTOMER
+- Created helper columns:
+  - Month
+  - Weekday
+  - Hour
+- Designed dashboard using Pivot Tables & Charts
 ### Python
--	Converted date and datetime columns into datetime format
--	Handled missing values
--	Feature engineering:
-                   - Month
-                   - Day
-                   - Weekday
-                   - Hour
--	Prepared data for machine learning model
+- Converted `date` and `datetime` columns to proper datetime format
+- Cleaned and handled missing values
+- Performed feature engineering to create:
+  - Month
+  - Day
+  - Weekday
+  - Hour
+- Prepared the dataset for machine learning model training
 # SQL
 -	Queried revenue, customer spending, sales trends, and product performance
 -	Used aggregate functions, grouping, filtering, subqueries, and ordering
