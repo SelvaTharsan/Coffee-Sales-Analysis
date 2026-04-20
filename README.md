@@ -129,14 +129,14 @@ An interactive dashboard was created in Excel containing:
 ## Conclusion
 The Coffee Sales Analysis Project demonstrates how Excel, SQL, and Machine Learning can be integrated to transform raw transaction data into valuable business insights. The project helps identify trends, improve operations, understand customer behavior, and forecast future revenue effectively.
 
-### Project Output
-<h2>Dashboard Preview</h2>
+## Project Output
+### Dashboard Preview
 <img width="1366" height="618" alt="Dashboard" src="https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/Dashboard.jpg" />
 
-<h2>SQL Results</h2>
+### SQL Results
 -	<a href="https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/MY%20SQL%20QUERIES.pdf"> 
   
-<h2>SQL Results</h2>
+### SQL Results
 -	<a href="https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/project-1-coffee-sales.html"> 
 
 
