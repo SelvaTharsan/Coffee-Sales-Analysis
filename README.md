@@ -37,18 +37,18 @@ The dataset contains detailed coffee vending machine transaction records with th
 -	Checked missing values
 -	Replaced null card values with CASH_CUSTOMER
 -	Created helper columns:
-          - Month
-          - Weekday
-         - 	Hour
+  - Month
+  - Weekday
+  - Hour
 -	Designed dashboard using Pivot Tables & Charts
 ### Python
 -	Converted date and datetime columns into datetime format
 -	Handled missing values
 -	Feature engineering:
-      - 	Month
-      -  	Day
-      -  Weekday
-      -  Hour
+   - Month
+   - Day
+   - Weekday
+   - Hour
 -	Prepared data for machine learning model
 # SQL
 -	Queried revenue, customer spending, sales trends, and product performance
