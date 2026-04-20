@@ -32,7 +32,7 @@ The dataset contains detailed coffee vending machine transaction records with th
 -	coffee_name – Purchased coffee product
 
 ## Data Cleaning & Preparation
-# Excel
+### Excel
 -	Imported CSV dataset
 -	Checked missing values
 -	Replaced null card values with CASH_CUSTOMER
@@ -41,7 +41,7 @@ The dataset contains detailed coffee vending machine transaction records with th
           - Weekday
          - 	Hour
 -	Designed dashboard using Pivot Tables & Charts
-# Python
+### Python
 -	Converted date and datetime columns into datetime format
 -	Handled missing values
 -	Feature engineering:
@@ -56,43 +56,43 @@ The dataset contains detailed coffee vending machine transaction records with th
 
 ## Exploratory Data Analysis (EDA)
 The following analyses were performed:
-# Sales Trends
+### Sales Trends
 -	Daily sales trend
 -	Monthly revenue trend
 -	Weekly sales pattern
 -	Sales by hour
-# Product Analysis
+### Product Analysis
 -	Top-selling coffee types
 -	Revenue by coffee product
 -	Popular products based on frequency
-# Customer Analysis
+### Customer Analysis
 -	Unique customers
 -	Repeat customers
 -	Top customers by spending
 -	Favorite products of customers
-# Payment Analysis
+### Payment Analysis
 -	Card vs Cash transaction comparison
 
 ## Machine Learning – Sales Forecasting
 Built a predictive model to estimate future sales using historical transaction data.
-# Predictions Performed:
+### Predictions Performed:
 -	Next day sales
 -	Next 7 days sales
 -	Next 30 days sales
-# Model Used:
+### Model Used:
 -	Linear Regression
-# Evaluation Metrics:
+### Evaluation Metrics:
 -	Mean Squared Error (MSE)
 -	R² Score
 
 ## Excel Dashboard
 An interactive dashboard was created in Excel containing:
-# KPI Cards
+### KPI Cards
 -	Total Revenue
 -	Total Orders
 -	Top Coffee Product
 -	Top Sales Day
-# Charts
+### Charts
 -	Monthly Sales Trend
 -	Sales by Coffee Type
 -	Payment Method Distribution
