@@ -131,6 +131,7 @@ The Coffee Sales Analysis Project demonstrates how Excel, SQL, and Machine Learn
 
 ## Project Output
 Dashboard Preview / Charts / Model Predictions / SQL Results
+![Uploading Dashboard.jpg…]()
 
 
 
