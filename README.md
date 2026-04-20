@@ -131,8 +131,7 @@ The Coffee Sales Analysis Project demonstrates how Excel, SQL, and Machine Learn
 
 ## Project Output
 Dashboard Preview / Charts / Model Predictions / SQL Results
-<img width="1366" height="618" alt="Screenshot (87)" src="![Uploading Dashboard.jpg…]()
-" />
+<img width="1366" height="618" alt="Dashboard" src="https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/Dashboard.jpg" />
 
 
 
