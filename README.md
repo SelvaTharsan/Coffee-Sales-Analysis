@@ -137,7 +137,7 @@ The Coffee Sales Analysis Project demonstrates how Excel, SQL, and Machine Learn
 [View Report](https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/MY%20SQL%20QUERIES.sql)
   
 ### Model Predictions 
-[View Report](https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/project-1-coffee-sales.ipynb)
+[View Report](https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/project-1-coffee-sales.py)
 
 
 
