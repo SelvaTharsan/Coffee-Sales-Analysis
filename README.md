@@ -22,9 +22,10 @@ The goal is to use data-driven techniques to improve decision-making, optimize i
 -	Matplotlib / Seaborn – Exploratory data analysis (EDA) charts
 -	Scikit-learn – Machine learning models
 
-## Dataset Information
+
 ### Dataset used
 -	<a href="https://github.com/SelvaTharsan/Coffee-Sales-Analysis/blob/main/coffee%20sales_Dataset.csv"> Dataset </a>
+## Dataset Information
 The dataset contains detailed coffee vending machine transaction records with the following columns:
 -	date – Transaction date
 -	datetime – Exact transaction timestamp
